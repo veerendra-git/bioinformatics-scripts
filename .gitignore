@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Bioinformatics data
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.bai
+*.sam
+*.dcd
+*.pdb
+*.pdbqt
+*.gro
+*.xtc
+*.trr
+
+# Generated results
+results/
+alignments/
+outputs/
+logs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.swp
